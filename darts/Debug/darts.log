@@ -1,3 +1,0 @@
-﻿  darts.c
-c:\users\tom.thomasb-laptop\exercism\c\darts\src\darts.c(7): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  darts.vcxproj -> C:\Users\Tom.THOMASB-LAPTOP\Exercism\c\darts\Debug\darts.exe

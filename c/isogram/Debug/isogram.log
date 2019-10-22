@@ -1,0 +1,3 @@
+﻿  isogram.c
+c:\users\tom.thomasb-laptop\exercism\c\isogram\src\isogram.c(14): warning C4013: 'tolower' undefined; assuming extern returning int
+  isogram.vcxproj -> C:\Users\Tom.THOMASB-LAPTOP\Exercism\c\isogram\Debug\isogram.exe
